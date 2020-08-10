@@ -15,4 +15,5 @@ console.log(a, b);
 
 //Constantes
 const c = 5 // Não pode ser alterada
-console.log(c);
+console.log(c); 
+var e = 9;// 888 
